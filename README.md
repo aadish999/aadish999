@@ -1,38 +1,38 @@
-# 🤖 Aadish Murale | Systems Architect & Automation Engineer
+# 🤖 Aadish Murale | Robotics & Automation Engineering (B.E.)
 
-Senior-track Robotics and Automation Engineering specialist focused on the synchronization of deterministic firmware, multi-axis kinematic chains, and distributed edge computing architectures. Expert in synthesizing real-time sensor fusion arrays for high-reliability physical systems.
-
----
-
-### 🚀 Core Research & Core Framework Architecture
-- 🔄 **Advanced Kinematic & Dynamic Synthesis:** Formulating closed-form analytical solutions for non-linear, multi-Degree-of-Freedom (DoF) serial manipulators and parallel kinematic machines.
-- 📡 **Distributed Edge Middleware:** Architecting decentralized node topologies using **ROS 2 (Humble/Jazzy)** with custom DDS (Data Distribution Service) Quality of Service (QoS) profiles for zero-latency messaging.
-- 👁️ **Perception & Spatial Intelligence:** Constructing real-time Simultaneous Localization and Mapping (**SLAM**) pipelines utilizing LiDAR point clouds, visual odometry, and Extended Kalman Filters (EKF).
-- 🏭 **Heterogeneous Systems Integration:** Designing synchronized industrial workcells bridging Programmable Logic Controllers (**PLCs via Structured Text/IEC 61131-3**) with ROS-controlled autonomous mobile robots (AMRs).
+Undergraduate engineering student specializing in the intersection of embedded systems, mechanical design, and robotic control logic. Focused on mastering foundational paradigms in autonomous systems and industrial automation.
 
 ---
 
-### 🛠️ Advanced Technical Competency Matrix
+### 🚀 Core Academic & Research Interests
+- 🔄 **Kinematic Analysis:** Exploring analytical methods for robotic manipulation and trajectory tracking.
+- 📡 **Embedded Firmware:** Developing firmware architectures for microcontrollers (AVR, ARM) to manage real-time actuator outputs.
+- 👁️ **Computer Vision Foundations:** Implementing basic spatial perception and image filtering matrices using OpenCV.
+- 🏭 **Control Systems:** Studying closed-loop feedback systems, proportional-integral-derivative (PID) tuning, and PLC logic.
 
-| Domain | Enterprise Frameworks, Syntaxes, & Instrumentation |
+---
+
+### 🛠️ Technical Skill Matrix
+
+| Domain | Frameworks, Syntaxes, & Environments |
 | :--- | :--- |
-| **Compiled & Scripted Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=MathWorks&logoColor=white) `Rust (Embedded)` `Structured Text` |
-| **Robotics Middleware & Engines** | ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=flat&logo=ros&logoColor=white) `ROS / ROS2` `Gazebo Multi-Robot Sim` `MoveIt 2` `Nav2` `OpenCV Deep Learning` |
-| **Hardware & Firmware Layers** | `STM32 (ARM Cortex-M4/M7)` `FreeRTOS (Real-Time OS)` `ESP32 Wi-Fi Mesh` `CAN bus / Modbus TCP` |
-| **Computer-Aided Engineering** | `SolidWorks Simulation (FEA/CFD)` `Autodesk Fusion 360` `Altium Designer (High-Speed PCB)` |
+| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=MathWorks&logoColor=white) |
+| **Robotics Middleware & Sim** | ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=flat&logo=ros&logoColor=white) `ROS / ROS2` `Gazebo Environment` `OpenCV` |
+| **Hardware & Microcontrollers** | `Arduino IDE` `ESP32 / Raspberry Pi` `STM32 Ecosystem` |
+| **CAD & Digital Fabrication** | `SolidWorks Parametric Modeling` `Autodesk Fusion 360` `KiCad (PCB Design)` |
 
 ---
 
-### 🎯 Enterprise Projects & R&D Initiatives
+### 🎯 Academic Initiatives & Lab Benchmarks
 
-#### 🛰️ Autonomous Mobile Robot (AMR) Navigation Stack Optimization
-*Architected a differential-drive AMR framework utilizing ROS 2 Nav2. Implemented Costmap2D layers mapped against 2D LiDAR data streams. Optimized a custom Proportional-Integral-Derivative (PID) controller to handle dynamic physical payloads up to 15kg with minimal error vectors.*
+#### 🛰️ Autonomous Navigation Frameworks
+*Experimenting with differential-drive chassis physics. Utilizing sensory feedback arrays to implement closed-loop PID control for precise line tracking and basic obstacle avoidance.*
 
-#### 🦾 6-DoF Industrial Manipulator Trajectory Generation
-*Developed a virtual deployment model of a 6-axis articulated arm within Gazebo and MoveIt. Synthesized inverse kinematics utilizing numerical Jacobian algorithms to execute smooth obstacle avoidance vectors in heavily constrained spatial envelopes.*
+#### 🦾 Multi-Axis Manipulator Simulations
+*Modeling robotic link geometries within Gazebo and MoveIt virtual testing environments to visualize forward and inverse kinematics implementations.*
 
-#### ⚡ High-Speed Multi-Layer PCB & Firmware for Brushless Motor Control
-*Designed a 4-layer power distribution and logic PCB utilizing Altium Designer, featuring isolated signal paths for high-frequency switching noise mitigation. Programmed low-level field-oriented control (FOC) algorithms in C++ on an STM32 microcontroller.*
+#### ⚡ Microcontroller Applications & Circuit Design
+*Designing custom 2-layer schematic captures for power distribution and programming embedded C++ routines to handle real-time sensor data telemetry.*
 
 ---
 
@@ -48,4 +48,4 @@ Senior-track Robotics and Automation Engineering specialist focused on the synch
 ### 🌐 Secure Communication Protocols
 *Establish an end-to-end connection via my digital professional node:*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aadish-murale-3a533427b/))
