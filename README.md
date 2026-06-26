@@ -1,18 +1,18 @@
-# 🤖 Aadish Murale | Robotics & Automation Engineering (B.E.)
+#  Aadish Murale | Robotics & Automation Engineering (B.E.)
 
 Undergraduate engineering student specializing in the intersection of embedded systems, mechanical design, and robotic control logic. Focused on mastering foundational paradigms in autonomous systems and industrial automation.
 
 ---
 
-### 🚀 Core Academic & Research Interests
-- 🔄 **Kinematic Analysis:** Exploring analytical methods for robotic manipulation and trajectory tracking.
-- 📡 **Embedded Firmware:** Developing firmware architectures for microcontrollers (AVR, ARM) to manage real-time actuator outputs.
-- 👁️ **Computer Vision Foundations:** Implementing basic spatial perception and image filtering matrices using OpenCV.
-- 🏭 **Control Systems:** Studying closed-loop feedback systems, proportional-integral-derivative (PID) tuning, and PLC logic.
+###  Core Academic & Research Interests
+-  **Kinematic Analysis:** Exploring analytical methods for robotic manipulation and trajectory tracking.
+-  **Embedded Firmware:** Developing firmware architectures for microcontrollers (AVR, ARM) to manage real-time actuator outputs.
+-  **Computer Vision Foundations:** Implementing basic spatial perception and image filtering matrices using OpenCV.
+-  **Control Systems:** Studying closed-loop feedback systems, proportional-integral-derivative (PID) tuning, and PLC logic.
 
 ---
 
-### 🛠️ Technical Skill Matrix
+###  Technical Skill Matrix
 
 | Domain | Frameworks, Syntaxes, & Environments |
 | :--- | :--- |
@@ -23,20 +23,20 @@ Undergraduate engineering student specializing in the intersection of embedded s
 
 ---
 
-### 🎯 Academic Initiatives & Lab Benchmarks
+###  Academic Initiatives & Lab Benchmarks
 
-#### 🛰️ Autonomous Navigation Frameworks
+####  Autonomous Navigation Frameworks
 *Experimenting with differential-drive chassis physics. Utilizing sensory feedback arrays to implement closed-loop PID control for precise line tracking and basic obstacle avoidance.*
 
-#### 🦾 Multi-Axis Manipulator Simulations
+####  Multi-Axis Manipulator Simulations
 *Modeling robotic link geometries within Gazebo and MoveIt virtual testing environments to visualize forward and inverse kinematics implementations.*
 
-#### ⚡ Microcontroller Applications & Circuit Design
+####  Microcontroller Applications & Circuit Design
 *Designing custom 2-layer schematic captures for power distribution and programming embedded C++ routines to handle real-time sensor data telemetry.*
 
 ---
 
-### 📊 System Diagnostics & Repository Analytics
+###  System Diagnostics & Repository Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aadish-Murale&show_icons=true&theme=tokyonight" alt="System Activity" width="48%" />
@@ -45,7 +45,7 @@ Undergraduate engineering student specializing in the intersection of embedded s
 
 ---
 
-### 🌐 Secure Communication Protocols
+###  Secure Communication Protocols
 *Establish an end-to-end connection via my digital professional node:*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/aadish-murale-3a533427b/))
